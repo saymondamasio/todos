@@ -6,7 +6,7 @@
   TODOS
 </h3>
 
-<p align="center">Lembre-se de suas tarefas</p>
+<p align="center">Remember your tasks</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saymondamasio/todos">
@@ -38,10 +38,10 @@
 
 ## 👨🏻‍💻 About the project
 
-<p>Um API feita para gerenciamento de tarefas, para gerenciar é necessário a criação de um usuário no sistema com o nome e um username para a identificação.</p>
+<p>This project consists of managing tasks, their creation and user listing.</p>
 
 <p>
-Essa API foi feita na Trilha Node.js da Rocketseat, usando a arquitetura Serverless além de usar o banco de dados não relacional DynamoDB, para a persistência dos dados.
+This API was made on Rocketseat's Node.js Trail, using the Serverless architecture in addition to using the non-relational database DynamoDB, for data persistence.
 </p>
 
 ## 🚀 Technologies
@@ -58,8 +58,6 @@ Technologies that I used to develop this api
 - [Commitizen](https://github.com/commitizen/cz-cli)
 
 ## 💻 Getting started
-
-Instale em sua maquina o MongoDB, em https://docs.mongodb.com/manual/installation
 
 ### Requirements
 

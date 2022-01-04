@@ -1,7 +1,7 @@
 {
   "name": "TODOS",
   "short_description": "Lembre-se de suas tarefas",
-  "description": "Um API feita para gerenciamento de tarefas, para gerenciar é necessário a criação de um usuário no sistema com o nome e um username para a identificação.",
+  "description": "Esse projeto consiste em gerenciar tarefas, sua criação e listagem por usuário. Essa API foi feita na Trilha Node.js da Rocketseat, usando a arquitetura Serverless além de usar o banco de dados não relacional DynamoDB, para a persistência dos dados.",
   "techs": [
     {
       "name": "Node.js",
