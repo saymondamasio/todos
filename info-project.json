@@ -2,9 +2,6 @@
   "name": "TODOS",
   "short_description": "Lembre-se de suas tarefas",
   "description": "Esse projeto consiste em gerenciar tarefas, sua criação e listagem por usuário. Essa API foi feita na Trilha Node.js da Rocketseat, usando a arquitetura Serverless além de usar o banco de dados não relacional DynamoDB, para a persistência dos dados.",
-  "images": [
-    "https://raw.githubusercontent.com/saymondamasio/todos/main/.github/todo-list.svg"
-  ],
   "techs": [
     {
       "name": "Node.js",
