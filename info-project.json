@@ -1,0 +1,39 @@
+{
+  "name": "TODOS",
+  "short_description": "Lembre-se de suas tarefas",
+  "description": "Um API feita para gerenciamento de tarefas, para gerenciar é necessário a criação de um usuário no sistema com o nome e um username para a identificação.",
+  "techs": [
+    {
+      "name": "Node.js",
+      "url": "https://nodejs.org"
+    },
+    {
+      "name": "Typescript",
+      "url": "https://www.typescriptlang.org"
+    },
+    {
+      "name": "Serverless",
+      "url": "https://serverless.com"
+    },
+    {
+      "name": "AWSLambda",
+      "url": "https://aws.amazon.com/lambda/"
+    },
+    {
+      "name": "DynamoDB",
+      "url": "https://aws.amazon.com/dynamodb/"
+    },
+    {
+      "name": "Husky",
+      "url": "https://github.com/typicode/husky"
+    },
+    {
+      "name": "Commitlint",
+      "url": "https://github.com/conventional-changelog/commitlint"
+    },
+    {
+      "name": "Commitizen",
+      "url": "https://github.com/commitizen/cz-cli"
+    }
+  ]
+}
